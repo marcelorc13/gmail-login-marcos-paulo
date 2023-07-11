@@ -29,7 +29,7 @@ body {
 }
 
 .form-floating {
-  margin-top: 24px;
+  margin-top: 50px;
 }
 
 .form-control {
@@ -88,4 +88,22 @@ footer {
 
 .form-select {
   font-size: 12px !important;
+}
+
+.mostrar-senha {
+  font-size: 14px !important;
+  margin-left: 10px !important;
+}
+
+#mostrarSenhaCheck {
+  border-color: #5f6368 !important;
+  border-width: 2px !important;
+  height: 18px !important;
+  width: 18px !important;
+  border-radius: 2px !important;
+}
+
+.gmail-senha {
+  border-radius: 16px !important;
+  width: 232px !important;
 }
