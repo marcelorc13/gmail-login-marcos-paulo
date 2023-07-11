@@ -1,0 +1,87 @@
+* {
+  font-family: roboto, sans-serif;
+}
+
+body {
+  padding-top: 82.5px;
+}
+
+.card {
+  width: 448px;
+  padding: 48px 40px 36px;
+}
+
+.card-title {
+  font-size: 24px;
+  font-weight: 400;
+}
+
+.card-img-top {
+  width: 75px !important;
+}
+
+.cinzinha {
+  color: #5f6368 !important;
+}
+
+.form-floating {
+  margin-top: 24px;
+}
+
+.form-control {
+  border-radius: 4px !important;
+}
+
+.btn {
+  font-size: 0.875rem !important;
+}
+
+.btn-primary {
+  padding-right: 24px !important;
+  padding-left: 24px !important;
+  border-radius: 4px !important;
+  background-color: rgb(26,115,232) !important;
+}
+
+.btn-link {
+  font-weight: 500 !important;
+}
+
+.esqueceu {
+  font-size: 14px !important;
+  font-weight: 500;
+}
+
+.saiba-mais {
+  margin-top: 32px;
+  font-size: 14px !important;
+}
+
+.saiba-mais a {
+  font-weight: 500;
+}
+
+.buttons {
+  margin-top: 32px;
+  padding-bottom: 20px;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  width: 448px;
+  height: 48px;
+  padding-top: 8px;
+}
+
+.list-group-item {
+  font-size: 12px !important;
+}
+
+.select-div {
+  width: 200px;
+}
+
+.form-select {
+  font-size: 12px !important;
+}
